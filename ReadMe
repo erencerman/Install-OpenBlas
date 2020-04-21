@@ -1,4 +1,4 @@
-To install OpenBLAS in Windows 10
+####To install OpenBLAS in Windows 10
 
-İnstal Linux Subsystem for Windoes as in  https://docs.microsoft.com/en-us/windows/wsl/install-win10
+Use linux subsystem for windows ( install it as in: https://github.com/erencerman/LinuxTerminal-on-Windows-10)
 
